@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Black-Scholes-GitPage/static/css/main.4336fbfe.css",
+    "main.js": "/Black-Scholes-GitPage/static/js/main.37e13f45.js",
+    "static/js/453.2338839b.chunk.js": "/Black-Scholes-GitPage/static/js/453.2338839b.chunk.js",
+    "index.html": "/Black-Scholes-GitPage/index.html",
+    "main.4336fbfe.css.map": "/Black-Scholes-GitPage/static/css/main.4336fbfe.css.map",
+    "main.37e13f45.js.map": "/Black-Scholes-GitPage/static/js/main.37e13f45.js.map",
+    "453.2338839b.chunk.js.map": "/Black-Scholes-GitPage/static/js/453.2338839b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4336fbfe.css",
+    "static/js/main.37e13f45.js"
+  ]
+}
